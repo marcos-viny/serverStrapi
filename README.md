@@ -1,0 +1,2 @@
+# serverStrapi
+strapi.io server
